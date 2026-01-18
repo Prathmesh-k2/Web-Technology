@@ -1,0 +1,15 @@
+
+  frontend                  backend
+                       
+                              .net    express
+html CSS
+  | node
+  JS
+  |
+ DOM------->API<----- MONGODB
+  |
+React/Angular  
+
+//what is js and nodejs
+// let const var
+  
