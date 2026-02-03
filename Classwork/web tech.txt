@@ -13,3 +13,8 @@ React/Angular
 //what is js and nodejs
 // let const var
   
+
+  non premitive  : object array 
+  
+
+  dOM => DO
