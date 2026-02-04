@@ -10,7 +10,7 @@
 // console.log("Activity 0: var, let and const Demonstration");
 
 // const a = 10;
-// // a = 20;  // ❌ Error: Assignment to constant variable
+// // a = 20;  //  Error: Assignment to constant variable
 // console.log("Constant a =", a);
 
 // var c = 20;
@@ -40,9 +40,9 @@
 ===============================================*/
 console.log("Activity 1: Student Information");
 
-let name = "prathmesh kokare";
+let name = "Ashwajeet Waghmare";
 let age = 20;
-let prn = "23UAM059";
+let prn = "23UAM006";
 let account_no = null;
 let address;
 
