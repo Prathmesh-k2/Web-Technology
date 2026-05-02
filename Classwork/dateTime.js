@@ -17,6 +17,6 @@ console.log(mydate.getUTCDay());
 //timeStamp
 let mytimeStamp=Date.now();
 console.log(mytimeStamp)
-
 console.log(mytimeStamp/1000)
+//to find current date and time
 

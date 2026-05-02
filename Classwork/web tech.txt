@@ -17,4 +17,9 @@ React/Angular
   non premitive  : object array 
   
 
-  dOM => DO
+  dOM => DOm 
+  dom manupulation means changing html using javascript
+  .show eroor msg
+  .clear input filds
+  .display 
+  .change text color
